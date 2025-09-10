@@ -1,0 +1,11 @@
+{
+  "timestamp": 1757506049,
+  "model": "llama-4-scout-17b-16e-w4a16",
+  "endpoint": "http://llamastack-with-config-service.llama-stack.svc.cluster.local:8321",
+  "sampling_params": {
+    "temperature": "0.0",
+    "max_tokens": "6000"
+  },
+  "task": "Final User Task - dummy",
+  "final_answer": "Final Summary - dummy"
+}
